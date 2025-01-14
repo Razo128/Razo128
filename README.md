@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Razo128
 - 👀 I’m interested in Data Science, Data Analysis & Mathematics
-- 🌱 I’m currently learning Quantum Annealing
+- 🌱 I’m currently learning dlt for ETL pipelines.
 - 💞️ I’m looking to collaborate on anything that interests me and is within my capability.
 - 📫 How to reach me: ryan.k.mckay@gmail.com
 
